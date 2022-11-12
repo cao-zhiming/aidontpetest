@@ -1,5 +1,5 @@
 body {
-	font-family: "Open Sans";
+	
 	font-size: 16px;
 	color: #111;
 }
@@ -70,6 +70,13 @@ div#main div#letter blockquote {
 	border-radius: 10px;
 	font-style: italic;
 	text-align: left;
+}
+
+div#main div#letter a {
+	width: 80%;
+	margin: 0 auto;
+	color: ;
+
 }
 
 div#main div#signatures div#organizationsHeader {
