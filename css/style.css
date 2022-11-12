@@ -4,13 +4,7 @@ body {
 	color: #111;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
-	font-family: "Georama";
-}
+
 
 div#main {
 	width: 90%;
@@ -47,7 +41,7 @@ div#main div#heading h2 {
 }
 
 div#main div#heading p a {
-	color: LightSalmon;
+	color: Plum;
 }
 
 
@@ -73,41 +67,13 @@ div#main div#letter blockquote {
 }
 
 div#main div#letter a {
-	width: 80%;
-	margin: 0 auto;
-	color: ;
+	
+	
+	color: Plum;
 
 }
 
-div#main div#signatures div#organizationsHeader {
-	max-width: 900px;
-	margin: 0 auto;
-}
 
-div#main div#signatures ul#organizations {
-	column-count: 4;
-	margin: 0 auto;
-	display: block;
-	max-width: 900px;
-}
-
-div#main div#signatures div#individualsHeader {
-	max-width: 900px;
-	margin: 0 auto;
-}
-
-div#main div#signatures ol#individuals {
-	column-count: 6;
-	font-size: 0.7em;
-	margin: 0 auto;
-	display: block;
-	width: 90%;
-	max-width: 1000px;
-}
-
-div#main div#signatures ol#individuals li.expert {
-	font-weight: bold;
-}
 
 div#main div#footer {
 	border-top: 1px solid #CCC;
